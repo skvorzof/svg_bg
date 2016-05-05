@@ -17,7 +17,7 @@ body {
   height: 63px;
   width: 100%;
   background-position: 50%;
-  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="40"><polygon points="0,40 1000,0 1000,40" style="fill:rgb(241, 241, 241);stroke:rgb(241, 241, 241);stroke-width:0"></polygon></svg>');
+  background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="40"><polygon points="0,40 1000,0 1000,40" style="fill:rgb(241, 241, 241);stroke:rgb(241, 241, 241);stroke-width:0"></polygon></svg>');
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -30,7 +30,7 @@ body {
   height: 63px;
   width: 100%;
   background-position: 50%;
-  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="40"><polygon points="1000,0 0,0 0,40" style="fill:rgb(241, 241, 241);stroke:rgb(241, 241, 241);stroke-width:0"></polygon></svg>');
+  background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="40"><polygon points="1000,0 0,0 0,40" style="fill:rgb(241, 241, 241);stroke:rgb(241, 241, 241);stroke-width:0"></polygon></svg>');
   background-repeat: no-repeat;
   background-size: cover;
 }
